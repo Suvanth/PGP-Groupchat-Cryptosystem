@@ -1,0 +1,2 @@
+# PGP-Groupchat-Cryptosystem
+This project entails the implementation of a Java group chat application between three users. The chat application uses the TCP protocol at the transport layer and security was implemented through a PGP cryptosystem that combines shared key encryption, public-key encryption and certificates. Cryptographic functions were implemented through the Java security API and Bouncy Castle library.
